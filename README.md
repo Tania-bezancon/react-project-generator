@@ -1,4 +1,4 @@
-# React QuickStart
+# React Project Generator
 
 As a React developer, I wanted to create a simple and efficient tool for setting up a React environment and quickly developing applications.
 
@@ -10,9 +10,9 @@ As a React developer, I wanted to create a simple and efficient tool for setting
 
 ## Installation
 
-To use React QuickStart, make sure you have Node.js installed on your system. Then, simply run the following command:
+To use React Project Generator, simply run the following command:
 
 ```bash
-npx react-quickstart <project_name>
+ ./create-react-project.sh
 
 
